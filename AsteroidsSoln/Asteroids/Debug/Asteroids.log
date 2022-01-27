@@ -1,0 +1,11 @@
+﻿  AsteroidManager.cpp
+C:\Users\Christina\Desktop\IG Projects\Asteroids-Game\AsteroidsSoln\Asteroids\AsteroidManager.cpp(4,86): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Christina\Desktop\IG Projects\Asteroids-Game\AsteroidsSoln\Asteroids\AsteroidManager.cpp(13,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Christina\Desktop\IG Projects\Asteroids-Game\AsteroidsSoln\Asteroids\AsteroidManager.cpp(39,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Christina\Desktop\IG Projects\Asteroids-Game\AsteroidsSoln\Asteroids\AsteroidManager.cpp(127,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Christina\Desktop\IG Projects\Asteroids-Game\AsteroidsSoln\Asteroids\AsteroidManager.cpp(128,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  Asteroids.vcxproj -> C:\Users\Christina\Desktop\IG Projects\Asteroids-Game\AsteroidsSoln\Debug\Asteroids.exe
